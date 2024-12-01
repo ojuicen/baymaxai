@@ -1,2 +1,2 @@
-# baymaxai
-Baymax AI
+# BayMax AI
+Your computer reimagined
